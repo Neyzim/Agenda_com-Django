@@ -1,13 +1,14 @@
-# 📅 Projeto Agenda com Django
+# 📅 Django Agenda Project
 
-## 📖 Descrição
-Este é o meu primeiro projeto com Django! Nele, aprendi e implementei funcionalidades essenciais para minha jornada como desenvolvedor, incluindo:
-- Autenticação de usuários
-- Manipulação de dados de formulários enviados pelo frontend para o backend
-- Gerenciamento e manipulação de URLs
+## 📖 Description
+This is my first Django project! Through it, I have learned and implemented essential functionalities that will be useful in my development journey, including:
 
-## 🚀 Instalação
-A única dependência do projeto é o **Django**, que pode ser instalado com o seguinte comando:
+- User authentication
+- Handling form data from frontend to backend
+- Managing and processing URLs
+
+## 🚀 Installation
+The only dependency required for the project is **Django**, which can be installed using the following command:
 
 ```bash
 pip install django
