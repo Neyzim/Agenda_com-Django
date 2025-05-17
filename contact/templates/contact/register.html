@@ -1,0 +1,10 @@
+{% extends 'global/base.html' %}
+<p>Valor de form_action: {{ form_action }}</p>
+{% block content %}
+  <div class="form-wrapper">
+
+    <h2>Register</h2>
+    {% include "contact/partials/user_form.html" %}
+  </div>
+  
+{% endblock content %}
